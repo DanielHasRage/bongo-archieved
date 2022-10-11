@@ -1,4 +1,4 @@
-# bongo-archieved
+# Bongo Archieved
 Bongo is an old project of mine that I have no use for anymore, so he is being made open source.
 
 # Want to use Bongo?
